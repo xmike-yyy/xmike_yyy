@@ -167,7 +167,7 @@ body {
     font-family: 'Lato', sans-serif;
   }
   .btn:hover {
-    background: #ec0b36 url(pixel.png);
+    background: #ec0b36 url(imgs/pixel.png);
     transition-delay: 0.8s;
     animation: button 0.8s steps(8) forwards;
     background-size: 200px;
@@ -190,7 +190,7 @@ body {
     font-family: 'Lato', sans-serif;
   }
   .btn2:hover {
-    background: #730bec url(pixel2.png);
+    background: #730bec url(imgs/pixel2.png);
     transition-delay: 0.8s;
     animation: button 0.8s steps(8) forwards;
     background-size: 200px;
